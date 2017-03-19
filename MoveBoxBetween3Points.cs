@@ -12,7 +12,7 @@ using UnityEngine;
 
 public class PujdeTo : MonoBehaviour {
 
-    public bool moveBox = true;
+    public bool moveBox = false;
     private float objectSpeed = 4;
 
     [SerializeField] Vector3 Point0;
